@@ -5,3 +5,4 @@ Additionally, it would reduce the manual effort to evaluate solubility using mul
 In this project, we use details of SMILES data (Simplified Molecular-Input Line-Entry System) which is essentially,
 the molecular structure in a line format, to calculate descriptors (cLogP:Octanol-water partition coefficient, MW:Molecular weight,RB:Number of rotatable bonds,
 AP:Aromatic proportion = number of aromatic atoms / total number of heavy atoms) and forecast solubility by training Delaney’s dataset using linear regression technique.
+Acomplete Notebook has been given in this repository performing the essential.
